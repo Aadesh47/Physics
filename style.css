@@ -1,0 +1,10 @@
+.menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-image: linear-gradient(to right,#FE9B40,#F6584F  );
+    font-size: 2px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: white;
+}
